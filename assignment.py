@@ -8,7 +8,9 @@ for number in [1, 2, 3]:
 # 1. What is printed, in order? Explain how the loop and the if condition
 # decide which numbers are passed to add_one.
 # Your answer:
+# When the code runs it output 3 4
 
 # 2. What does add_one(2) return? Explain the difference between return
 # inside the function and print in the loop.
 # Your answer:
+#it prints 3 
